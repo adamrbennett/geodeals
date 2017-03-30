@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoDeals</string>
+    <string name="geofence_transition_invalid_type">Unknown geo fence transition type: %d</string>
+</resources>
